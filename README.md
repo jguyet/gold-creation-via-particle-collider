@@ -1,5 +1,7 @@
 # Recap of the Experiment: Gold Creation via Particle Collider
 
+<img src="./garage-collider.png">
+
 ## Objective of the Experiment:
 The theoretical objective of this experiment is to attempt to create gold (Au) from mercury atoms (Hg) using a particle collider. The idea is to induce the loss of one proton in the nuclei of mercury-198 (Hg-198), thereby transforming these atoms into gold-197 (Au-197).
 
